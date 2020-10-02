@@ -1,0 +1,33 @@
+body {
+    background-color: #6E2D18;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 110px;
+    text-align: center;
+    color: #FD5D06;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #F1A37E;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: #FD5D06;
+}
+
+#email {
+    max-width:5%;
+    height:auto;
+}
+
+#emBreve {
+    font-size: 80px;
+}
